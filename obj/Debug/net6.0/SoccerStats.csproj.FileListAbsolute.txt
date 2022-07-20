@@ -1,0 +1,17 @@
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/data.txt
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/SoccerStats
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/SoccerStats.deps.json
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/SoccerStats.runtimeconfig.json
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/SoccerStats.dll
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/SoccerStats.pdb
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.csproj.AssemblyReference.cache
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.AssemblyInfoInputs.cache
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.AssemblyInfo.cs
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.csproj.CoreCompileInputs.cache
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.dll
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/refint/SoccerStats.dll
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.pdb
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.genruntimeconfig.cache
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/ref/SoccerStats.dll
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/SoccerGameResults.csv
