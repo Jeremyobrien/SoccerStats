@@ -15,3 +15,6 @@
 /Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.genruntimeconfig.cache
 /Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/ref/SoccerStats.dll
 /Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/SoccerGameResults.csv
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/players.json
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jeremyobrien/Projects/SoccerStats/SoccerStats/obj/Debug/net6.0/SoccerStats.csproj.CopyComplete
